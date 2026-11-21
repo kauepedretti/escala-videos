@@ -35,3 +35,5 @@ No Unsplash, clique em **Download** (canto superior direito) e suba em `banco/`.
 | EP89 piscar | Olho verde de perto | https://unsplash.com/photos/a-close-up-of-a-persons-green-eye-Skp6UUzGhgs |
 | EP98 Roma | Coliseu visto de cima | https://unsplash.com/photos/aerial-view-of-colosseum-at-rome-italy-ckotRXopwRM |
 | EP98 Roma | Coliseu com céu azul | https://unsplash.com/photos/the-ancient-colosseum-under-a-clear-blue-sky-WdjFDzqBBP8 |
+
+**Status 21/11:** 13 de 14 baixadas e organizadas ✅. Falta só o *olho verde de perto* (EP89) — opcional, já temos outro olho.
