@@ -14,3 +14,24 @@ Baixe na maior resolução e suba em `banco/`. Pode manter o nome original — e
 | EP123 | Ilustração: sistemas de anãs brancas duplas (NASA) | https://www.nasa.gov/image-article/doubling-down-with-rare-white-dwarf-systems/ | ilustracao-anas-brancas-duplas | ✅ |
 
 As duas do EP123 são **ilustrações oficiais** (não existe foto real que mostre as duas estrelas separadas). Vão para `ilustracoes-nao-reais/` e só uso com o seu OK.
+
+## Unsplash (fotos reais, grátis) — pedidos de 21/11
+
+No Unsplash, clique em **Download** (canto superior direito) e suba em `banco/`.
+
+| Episódio | Imagem | Link |
+|---|---|---|
+| EP83 árvores | General Sherman, a maior árvore do mundo | https://unsplash.com/photos/a-large-tree-in-the-middle-of-a-forest-oRPinlCTEbk |
+| EP83 árvores | Sequoia gigante no sol | https://unsplash.com/photos/a-large-tree-in-the-middle-of-a-forest-7xQzwYENn7w |
+| EP83 árvores | General Grant (sequoia) | https://unsplash.com/photos/green-trees-under-white-clouds-during-daytime-tQdZiShnvp8 |
+| EP83 árvores | Sequoias vistas de baixo | https://unsplash.com/photos/low-angle-photography-of-trees-at-daytime-4rDCa5hBlCs |
+| EP86 fungo | Cogumelos num tronco | https://unsplash.com/photos/brown-mushroom-on-brown-tree-trunk-XO483Y8_VSQ |
+| EP86 fungo | Cogumelo de perto | https://unsplash.com/photos/selective-focus-photo-of-mushroom-UMaGtammiSI |
+| EP95 oceano | Mar visto de cima (Maldivas) | https://unsplash.com/photos/aerial-photo-of-seashore-sLAk1guBG90 |
+| EP95 oceano | Ondas vistas de cima | https://unsplash.com/photos/aerial-view-of-waves-meeting-sand-8Ogfqvw15Rg |
+| EP76 sono | Pessoa dormindo | https://unsplash.com/photos/woman-sleeping-on-the-bed-xFIuMTj8Tf8 |
+| EP76 sono | Pessoa dormindo (cobertor branco) | https://unsplash.com/photos/woman-covered-with-white-blanket-_Utk8ZYT4tI |
+| EP89 piscar | Olho de perto | https://unsplash.com/photos/yellow-and-gray-eyeball-KJCyvlA_aAQ |
+| EP89 piscar | Olho verde de perto | https://unsplash.com/photos/a-close-up-of-a-persons-green-eye-Skp6UUzGhgs |
+| EP98 Roma | Coliseu visto de cima | https://unsplash.com/photos/aerial-view-of-colosseum-at-rome-italy-ckotRXopwRM |
+| EP98 Roma | Coliseu com céu azul | https://unsplash.com/photos/the-ancient-colosseum-under-a-clear-blue-sky-WdjFDzqBBP8 |
