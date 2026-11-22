@@ -37,3 +37,21 @@ No Unsplash, clique em **Download** (canto superior direito) e suba em `banco/`.
 | EP98 Roma | Coliseu com céu azul | https://unsplash.com/photos/the-ancient-colosseum-under-a-clear-blue-sky-WdjFDzqBBP8 |
 
 **Status 21/11:** 13 de 14 baixadas e organizadas ✅. Falta só o *olho verde de perto* (EP89) — opcional, já temos outro olho.
+
+## Pedidos de 22/11 (áudios de 10/12 a 24/12)
+
+| Episódio | Imagem | Link | Pasta |
+|---|---|---|---|
+| EP124 Natal Apollo 8 | Earthrise (AS08-14-2383) | https://www.nasa.gov/image-detail/amf-as08-14-2383/ | missoes-foguetes-astronautas |
+| EP100 Último passo na Lua | Gene Cernan na Lua (Apollo 17) | https://science.nasa.gov/resource/gene-cernan-on-the-moon | missoes-foguetes-astronautas |
+| EP108 Olympus Mons | Mosaico colorido (Viking) | https://science.nasa.gov/photojournal/color-mosaic-of-olympus-mons/ | planetas-e-sistema-solar |
+| EP113 · EP134 Betelgeuse | Betelgeuse antes e depois do escurecimento (ESO/VLT) | https://www.eso.org/public/images/eso2003c | galaxias-estrelas-nebulosas |
+| EP134 Cav. Satélite | Sirius A e a anã branca Sirius B (Hubble) | https://esahubble.org/images/heic0516a/ | galaxias-estrelas-nebulosas |
+| EP102 De carro até a estrela | Proxima Centauri (Hubble) | https://esahubble.org/images/potw1343a/ | galaxias-estrelas-nebulosas |
+| EP119 Universo observável | Fundo cósmico de micro-ondas (Planck/ESA) | https://sci.esa.int/web/planck/-/60505-planck-s-cosmic-microwave-background-equirectangular-projection | galaxias-estrelas-nebulosas |
+| EP109 NASA · EP133 Satélites | Sputnik 1 | https://www.nasa.gov/image-detail/sputnik-1 | missoes-foguetes-astronautas |
+| EP109 NASA | Lançamento do Artemis I (galeria NASA) | https://www.nasa.gov/feature/view-the-best-images-from-nasa-s-artemis-i-mission | missoes-foguetes-astronautas |
+| EP101 Bose-Einstein | Imagem do primeiro condensado (JILA, 1995) | https://www.colorado.edu/jila/2025/07/08/thirty-years-bose-einstein-condensates | ciencia (nova) |
+| EP103 Plasma | Foto de um tubo de Crookes (domínio público) | https://en.wikipedia.org/wiki/Crookes_tube | ciencia (nova) |
+| EP104 Sonda soviética | Sonda Phobos (NASA/NSSDC) | https://nssdc.gsfc.nasa.gov/planetary/phobos.html | missoes-foguetes-astronautas |
+| EP117 Marte | Cratera Jezero vista de cima (pendente desde 21/11) | https://www.nasa.gov/image-article/jezero-crater-landing-site-mars-perseverance-rover/ | planetas-e-sistema-solar |
