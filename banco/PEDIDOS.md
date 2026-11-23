@@ -59,3 +59,7 @@ No Unsplash, clique em **Download** (canto superior direito) e suba em `banco/`.
 
 ### Entregue em 22/11 (organizado)
 Todos os itens da tabela de 22/11 chegaram (a cratera Jezero estava solta na raiz desde 21/11; movida pro banco). Obs.: a imagem da sonda Phobos é ilustração (está em ilustracoes-nao-reais). A de William Crookes é caricatura da Vanity Fair (1902).
+
+## Terra padrão (22/11)
+- Foto real (escolher uma com as Américas): Blue Marble 2012 — https://www.nasa.gov/image-article/blue-marble-2012/ · Galeria EPIC/DSCOVR — https://epic.gsfc.nasa.gov/galleries · EPIC View of Earth (SVS) — https://svs.gsfc.nasa.gov/30610
+- Já no banco: ilustracoes-nao-reais/terra-americas-ia-recortada.png (feita por IA, recortada) e videos-do-banco/terra-animacao-3d-*.mp4 (animações 3D)
