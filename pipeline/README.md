@@ -39,3 +39,9 @@ HUD/título até ~y440 · diagramas 450–1040 · legendas a partir de ~1080. Ro
 
 ## Exemplo completo
 `exemplo-ep135/` – EP135 (aurora, pergunta do Felype): p.js com timings, img.js com fotos, scene montada.
+
+## Identidade visual (desde 23/11/2026)
+- Legendas: palavras de destaque em **verde neon `#3CFF7A`** (constante `ACCENT` em `ep3/common_head.js`).
+- Destaques, réguas, números e títulos do HUD: verde (`VGOLD` em `vshared/vlib.js` agora é `#3CFF7A`).
+- Cores com significado ficam: Sol/estrelas (amarelo), Terra/água (azul), perigo/alerta (vermelho).
+- Um estilo visual por série: Em 1 ano → calendário · A Terra do tamanho de… → zoom de escala · Você perguntou → lousa de observatório · IA × universo → tela de IA · naves → blueprint (azul-marinho e vermelho como referência, sem logo da NASA) · notícias/datas fixas → foto real + dados · planetas → 3D.

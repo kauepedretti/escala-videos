@@ -36,7 +36,7 @@ function captions(t) {
     if (kind === 'mid') { const k = eo(clamp((t - s) / 0.5)); txt(text, W / 2, H * 0.47 + (1 - k) * 30, { size: 78, weight: 500, alpha: k * fade }); continue; }
     const L = layout(i); const y0 = 1235 - (L.n - 1) * 38;
     for (const it of L.items) { const k = eo(clamp((t - it.t0) / 0.16)); if (k <= 0) continue;
-      txt(it.wd, it.x, y0 + it.li * 76 + (1 - k) * 16, { size: 62, align: 'left', alpha: k * fade, color: it.hl ? ORANGE : '#fff', stroke: true }); }
+      txt(it.wd, it.x, y0 + it.li * 76 + (1 - k) * 16, { size: 62, align: 'left', alpha: k * fade, color: it.hl ? ACCENT : '#fff', stroke: true }); }
   }
 }
 const fmt = (v, d = 0) => v.toLocaleString('pt-BR', { minimumFractionDigits: d, maximumFractionDigits: d });
