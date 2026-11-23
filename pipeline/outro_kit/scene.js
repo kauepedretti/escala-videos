@@ -7,7 +7,7 @@ const ss = (a, b, x) => { const s = clamp((x - a) / (b - a)); return s * s * (3 
 const eio = s => s < .5 ? 4 * s * s * s : 1 - Math.pow(-2 * s + 2, 3) / 2;
 const eo = s => 1 - Math.pow(1 - s, 3);
 const win = (t, a, b, f = 0.25) => ss(a, a + f, t) * (1 - ss(b - f, b, t));
-const ORANGE = '#FFB23E', BLUE = '#9cc8ff', RED = '#ff5a3c';
+const ORANGE = '#3CFF7A', BLUE = '#9cc8ff', RED = '#ff5a3c';
 
 const P=[]; const DURATION=4.6;
 // base 3D compartilhada (renderizador, shaders, estrelas, galáxia, Sol, Terra)
