@@ -1,0 +1,2 @@
+{ "name": "escala-render", "private": true,
+  "dependencies": { "three": "0.149.0", "@fontsource/space-grotesk": "5.0.18", "@fontsource/jetbrains-mono": "5.0.20", "topojson-client": "3.1.0", "world-atlas": "2.0.2" } }
