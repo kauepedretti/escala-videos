@@ -55,3 +55,7 @@ No Unsplash, clique em **Download** (canto superior direito) e suba em `banco/`.
 | EP103 Plasma | Foto de um tubo de Crookes (domínio público) | https://en.wikipedia.org/wiki/Crookes_tube | ciencia (nova) |
 | EP104 Sonda soviética | Sonda Phobos (NASA/NSSDC) | https://nssdc.gsfc.nasa.gov/planetary/phobos.html | missoes-foguetes-astronautas |
 | EP117 Marte | Cratera Jezero vista de cima (pendente desde 21/11) | https://www.nasa.gov/image-article/jezero-crater-landing-site-mars-perseverance-rover/ | planetas-e-sistema-solar |
+
+
+### Entregue em 22/11 (organizado)
+Todos os itens da tabela de 22/11 chegaram, menos a cratera Jezero (EP117). Obs.: a imagem da sonda Phobos é ilustração (está em ilustracoes-nao-reais). A de William Crookes é caricatura da Vanity Fair (1902).
