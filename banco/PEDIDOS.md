@@ -58,4 +58,4 @@ No Unsplash, clique em **Download** (canto superior direito) e suba em `banco/`.
 
 
 ### Entregue em 22/11 (organizado)
-Todos os itens da tabela de 22/11 chegaram, menos a cratera Jezero (EP117). Obs.: a imagem da sonda Phobos é ilustração (está em ilustracoes-nao-reais). A de William Crookes é caricatura da Vanity Fair (1902).
+Todos os itens da tabela de 22/11 chegaram (a cratera Jezero estava solta na raiz desde 21/11; movida pro banco). Obs.: a imagem da sonda Phobos é ilustração (está em ilustracoes-nao-reais). A de William Crookes é caricatura da Vanity Fair (1902).
