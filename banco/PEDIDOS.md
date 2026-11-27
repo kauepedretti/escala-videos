@@ -9,7 +9,7 @@ Baixe na maior resolução e suba em `banco/`. Pode manter o nome original — e
 | EP120 | Urano em cor real e falsa | https://science.nasa.gov/photojournal/uranus-in-true-and-false-color/ | urano-cor-real-e-falsa | ✅ |
 | EP117 | Rocha Cheyava Falls ("manchas de leopardo") | https://science.nasa.gov/photojournal/perseverance-finds-a-rock-with-leopard-spots/ | marte-cheyava-falls-manchas-leopardo | ✅ |
 | EP117 | Delta da cratera Jezero | https://science.nasa.gov/photojournal/jezero-crater-delta-2/ | marte-delta-jezero | ✅ |
-| EP117 | Cratera Jezero vista de cima | https://www.nasa.gov/image-article/jezero-crater-landing-site-mars-perseverance-rover/ | marte-cratera-jezero | ⏳ falta |
+| EP117 | Cratera Jezero vista de cima | https://www.nasa.gov/image-article/jezero-crater-landing-site-mars-perseverance-rover/ | marte-cratera-jezero | ✅ |
 | EP123 | Ilustração: duas anãs brancas se fundindo (NASA/Hubble) | https://science.nasa.gov/asset/hubble/merger-of-two-white-dwarf-stars/ | ilustracao-duas-anas-brancas | ✅ |
 | EP123 | Ilustração: sistemas de anãs brancas duplas (NASA) | https://www.nasa.gov/image-article/doubling-down-with-rare-white-dwarf-systems/ | ilustracao-anas-brancas-duplas | ✅ |
 
