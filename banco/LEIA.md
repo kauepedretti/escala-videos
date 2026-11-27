@@ -12,3 +12,5 @@ Como subir: abra a subpasta → **Add file → Upload files** → arraste os arq
 
 ## yugioh-cartas/
 Cartas de Yu-Gi-Oh organizadas por arquétipo/tema: `constellar/`, `tellarknight/` (inclui Darktellarknight), `satellarknight/`, `stellarknight/`, `outras/` (ex.: Number 86) e as Galaxy-Eyes soltas na pasta. © Konami, enviadas pelo Kauê.
+
+- 27/11: imagens/vídeo gerados por IA (Kauê) a partir dos prompts JSON: Grande Atrator x2, Voyager heliopausa (imagem + vídeo 10 s Gemini), Nuvem de Oort, vazio x3, lente gravitacional, mascote satélite (fundo branco, precisa recortar). Sempre rotular "ilustração".
